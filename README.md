@@ -22,12 +22,15 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 2. Install dependencies
+   
 -cd Restaurant-ERP-system/server
 -npm install
 
-3. start server
+4. start server
+   
 -node server.js
 
-4. start client
+5. start client
+   
 -npm start
 
